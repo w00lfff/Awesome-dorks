@@ -1,15 +1,16 @@
-0admin/
-0manager/
-"/1000/system_information.asp"
-"100% | 50% | 25%" "Back to gallery" inurl:"show.php?imageid="
-10. google = kietu/hit_js.php, kietu/hit_js.php
-11. keyword : “Powered by phpBB 2.0.6”
-12. keyword : “powered by CubeCart 3.0.6”
-13. keyword : “powered by paBugs 2.0 Beta 3”
-14. keyword : “powered eyeOs”
-14. powered by AshNews”, AshNews atau  /ashnews.php
-15. keyword : /phorum/login.php
-15. .php?bodyfile=
+inurl:"/0admin"
+inurl:"/0manager"
+inurl:"1000/system_information.asp"
+inurl:"show.php?imageid="
+inurl:"/kietu/hit_js.php"
+“Powered by phpBB 2.0.6”
+“powered by CubeCart 3.0.6”
+“powered by paBugs 2.0 Beta 3”
+“powered eyeOs”
+"powered by AshNews”
+inurl:"/ashnews.php"
+/phorum/login.php
+.php?bodyfile=
 16. ihm.php?p=*
 16. /includes/orderSuccess.inc.php?glob=
 17. forums.html
@@ -14624,7 +14625,6 @@ warning “error on line” php sablotron
 "Warning:" "SAFE MODE Restriction in effect." "The s?ri?t whose uid is" "is not allowed to access owned by uid 0 in" "on line"
 “Warning:” “SAFE MODE Restriction in effect.” “The s?ri?t whose uid is” “is not allowed to access owned by uid 0 in” “on line”
 "Warning: Supplied argument is not a valid File-Handle resource in"
-“Warning: Supplied argument is not a valid File-Handle resource in”
 webadmin/
 webadmin.%XT%
 WEBalbum 2004-2006 duda
@@ -14632,18 +14632,14 @@ WEBalbum 2004-2006 duda -ihackstuff -exploit
 "Web Analytics powered by Open Web Analytics - v: 1.6.2"
 "Web Application Assessment Report" ext:pdf
 "Web-Based Management" "Please input password to login" -inurl:johnny.ihackstuff.com
-“Web-Based Management” “Please input password to login” -inurl:johnny.ihackstuff.com
 ''webboard question.asp QID''
 "WEB Browser Password Recovery" ext:txt
 "WebCalendar v1.0.4"
 WebControl intitle:"AMX NetLinx"
 "Webdesign Cosmos Solutions"
 Webdevelopment Tinx-IT
-"WebExplorer Server - Login" "Welcome to WebExplorer Server"
-"WebExplorer Server – Login" "Welcome to WebExplorer Server"
 “WebExplorer Server – Login” “Welcome to WebExplorer Server”
 "Web File Browser" "Use regular expression"
-“Web File Browser” “Use regular expression”
 "Web Group Communication Center"
 "Web Group Communication Center beta 0.5.6" OR "Web Group Communication Center beta 0.5.5"
 "webkactus"
@@ -14659,40 +14655,31 @@ webmaster.%XT%
 website.php?id=
 "Website Powered By Creative SplashWorks - SplashSite"
 "Website powered by Subdreamer CMS & Sequel Theme Designed by indiqo.media"
-Website powered by Subdreamer CMS & Sequel Theme Designed by indiqo.media
 "WebSTAR Mail - Please Log In"
-"WebSTAR Mail – Please Log In"
-“WebSTAR Mail – Please Log In”
 "Webthru User Login"
 "--- WebView Livescope Http Server Error ---" -git
 [ Web Wiz Forums® version 9.64 [Free Express Edition] ]
 webwizguestbook_license.asp
 "Welcome to Administration" "General" "Local Domains" "SMTP Authentication" inurl:admin
-“Welcome to Administration” “General” “Local Domains” “SMTP Authentication” inurl:admin
 "Welcome to Exponent CMS" | "my new exponent site"
 "Welcome to Exponent CMS" | "my new exponent site" inurl:articlemodule
 "Welcome to Intranet"
-“Welcome to Intranet”
 Welcome to ntop!
 "Welcome to phpMyAdmin" AND " Create new database"
 "Welcome to phpMyAdmin" " Create new database"
 "Welcome to phpMyAdmin" + "Username:" + "Password:" + "Language:" + "Afrikaans"
 "Welcome to PHP-Nuke" congratulations
-“Welcome to PHP-Nuke” congratulations
 welcome.to phpqladmin "Please login" -cvsweb
 "Welcome to Sentry, please log in:"
 "Welcome to Sitecore" + "License Holder"
 "Welcome to the CyberGuard unit!"
 "Welcome to the directory listing of" "NetworkActiv-Web-Server"
 "Welcome to the Prestige Web-Based Configurator"
-“Welcome to the Prestige Web-Based Configurator”
 "Welcome to the versatileBulletinBoard" | "Powered by versatileBulletinBoard"
 Welcome to your PHPOpenChat-Installation!
 werbungFrame.php?do= .php?do=”
 [WFClient] Password= filetype:ica
 “whatsnew.asp?idCategory=”
-whatsnew.asp?idCategory=
-whatsnew.php?idCategory=
 whereami.cgi?g=id
 where/details.php?id=
 WhitsundaySailing.php?id=
@@ -14716,8 +14703,6 @@ wp-login/
 wp-login.php
 write.php?dir=
 “WsAncillary.asp?ID”
-WsAncillary.asp?ID=
-WsAncillary.php?ID=
 "ws_ftp.log" ext:log
 /ws/get_events.php?includedir= /WebCalendar/
 /ws/get_events.php?includedir= “/WebCalendar/”
@@ -14731,34 +14716,27 @@ WsAncillary.php?ID=
 /ws/login.php?includedir= WebCalendar v0.9.45
 WsPages.asp?ID=
 WsPages.asp?ID=noticiasDetalle.asp?xid=
-WsPages.php?ID=noticiasDetalle.php?xid=
 wwdsemea/default.asp?ID=
-wwwboard WebAdmin  inurl:passwd.txt wwwboard|webadmin
 wwwboard WebAdmin inurl:passwd.txt wwwboard|webadmin
 "www.*.com - c99shell" OR "www.*.net - c99shell" OR "www.*.org - c99shell"
 www/index.php?page=
-www.stwc-counter.de
 WWWThreads")|(inurl:"wwwthreads/login.php")|(inurl:"wwwthreads/login.pl?Cat=")
-WWWThreads”)|(inurl:”wwwthreads/login.php”)|(inurl:”wwwthreads/login.pl?Cat=”)
 xamppdirpasswd.txt filetype:txt
 XAMPP "inurl:xampp/index"
-"xampp/phpinfo
-“xampp/phpinfo
+"xampp/phpinfo"
 "X-CART. Powerful PHP shopping cart software"
-xlogin/
+/xlogin/
 XOOPS Custom Installation
 "YaBB SE Dev Team"
-“YaBB SE Dev Team”
-/yabbse/Sources/Packages.php?sourcedir=
 yabbse/Sources/Packages.php?sourcedir=
 yacht_search/yacht_view.php?pid=
 yahoo = by Kietu? v 3.2
 yaws.*.server.at
 "Yogurt build"
-yonetici.html
-yonetici.%XT%
-yonetim.html
-yonetim.%XT%
+/yonetici.html
+/yonetici.%XT%
+/yonetim.html
+/yonetim.%XT%
 "you can now password" | "this is a special page only seen by you. your profile visitors"  inurl:imchaos
 "you can now password" | "this is a special page only seen by you. your profile visitors" inurl:imchaos
 “you can now password” | “this is a special page only seen by you. your profile visitors” inurl:imchaos
@@ -14774,27 +14752,24 @@ yonetim.%XT%
 “You have requested to access the management functions” -.edu
 "You have selected the following files for upload (0 Files)."
 "You need to be logged in to see your course progress."
-Youraccount.cfm?ID=
-Your_account_details.php?id=
+/Youraccount.cfm?ID=
+/Your_account_details.php?id=
 "your default password is" filetype:pdf
 you really should fix this security hole by setting a password for user '.root'. inurl:/phpmyadmin intitle:localhost
 "You're successfully running JSON Server"
-your_orders.php?ID=
+/your_orders.php?ID=
 "your password is" filetype:log
 “your password is” filetype:log
 "Your password is * Remember this for later use"
 "Your password is Remember this for later use"
 “Your password is * Remember this for later use”
 -youtube.com login | password | username intitle:"assessment"
-YZboard/view.php?id=
-zboard/zboard.php
-zb/view.php?uid=
+/YZboard/view.php?id=
+/zboard/zboard.php
+/zb/view.php?uid=
 Zenario CMS Login Page
-*zentrack/index.php?configFile=
 /zentrack/index.php?configFile=
-zentrack/index.php?configFile=
-***zine/board.php?board=
-*zine/board.php?board=
+/zine/board.php?board=
 /zipndownload.php?PP_PATH=
 /zipndownload.php?PP_PATH= “PhotoPost”
 /zipndownload.php?PP_PATH= PhotoPost
